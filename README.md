@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sina. I’m interested in applying machine learning ot biological to and biomedical problems. 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+<!-- - 🌱 I’m currently learning  -->
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: direct message on twitter or linkedin
 
 <!---
